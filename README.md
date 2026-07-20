@@ -9,5 +9,5 @@ workflow is the point, not the code.
 
 ## Getting Started
 
-This repo doesn't require any build steps. Clone it and your succesfull setup
+This repo doesn't require any build steps. Clone it and your successful setup
 is already done.
